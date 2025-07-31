@@ -4,11 +4,6 @@
   "description": "TypeScript port of browser-use - a framework for building autonomous browser agents",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": [
-    "dist",
-    "README.md",
-    "LICENSE"
-  ],
   "scripts": {
     "build": "tsc",
     "clean": "rm -rf dist",
